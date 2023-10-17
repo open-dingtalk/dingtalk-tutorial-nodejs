@@ -1,4 +1,4 @@
-import {DWClient, DWClientDownStream, EventAck} from 'dingtalk-stream-sdk-nodejs';
+import {DWClient, DWClientDownStream, EventAck} from 'dingtalk-stream';
 const { program } = require('commander');
 
 program
