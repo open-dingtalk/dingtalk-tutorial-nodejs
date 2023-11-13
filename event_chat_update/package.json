@@ -15,6 +15,6 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "dingtalk-stream": "^2.1.0"
+    "dingtalk-stream": "^2.1.2"
   }
 }
